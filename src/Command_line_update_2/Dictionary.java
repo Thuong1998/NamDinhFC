@@ -20,7 +20,7 @@ public class Dictionary {
         System.out.println("Tìm từ chính xác        :look");
         System.out.println("Tìm từ gần đúng         :search");
         System.out.println("Lưu từ điển vào file    :export to file");
-        System.out.println("Dừng chườn trình        :exit");
+        System.out.println("Dừng chương trình        :exit");
         while (sc.hasNext())
         {
             String st = sc.nextLine();
